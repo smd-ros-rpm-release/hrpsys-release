@@ -28,6 +28,7 @@ BuildRequires:  freeglut-devel
 BuildRequires:  git
 BuildRequires:  glew-devel
 BuildRequires:  irrlicht-devel
+BuildRequires:  libXi-devel
 BuildRequires:  libXmu-devel
 BuildRequires:  libxml2-devel
 BuildRequires:  pkgconfig
